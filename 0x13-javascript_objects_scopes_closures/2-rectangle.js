@@ -1,17 +1,16 @@
 #!/usr/bin/node
 
-// class with constructor 
+// class with constructor
 
 class Rectangle {
-
-  constructor(w, h) {
+  constructor (w, h) {
     this.width = w;
     this.height = h;
-	  
+
     if (w > 0 && h > 0) {
-      const obj = {};
+      this.width = w;
+      this.height = w;
     }
   }
-
 }
 module.exports = Rectangle;
