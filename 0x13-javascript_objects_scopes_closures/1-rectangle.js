@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-//class with constructor 
+// class with constructor
 
 class Rectangle {
   constructor (w, h) {
