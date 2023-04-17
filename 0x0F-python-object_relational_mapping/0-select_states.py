@@ -6,7 +6,7 @@ import MySQLdb
 import sys
 
 
-if __name__ == "__main__"
+if __name__ == "__main__":
 
     dbCon = MySQLdb.connect(
                 host="localhost",
