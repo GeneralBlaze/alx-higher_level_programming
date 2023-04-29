@@ -1,0 +1,1 @@
+Readme for objects scopes
